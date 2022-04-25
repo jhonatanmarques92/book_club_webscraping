@@ -8,7 +8,7 @@ A livraria Book Store é um site que oferece um serviço onde os usuário podem 
 Como cientista de dados, o dever é organizar os dados e armazená-los em um banco de dados, para facilitar a consulta.
 
 ## Premissa do Negócio
-Deverá ser entregue um banco de dados contendo o nome do livro, categoria, número de estrelas, preço e se está em estoque.
+Deverá ser entregue um banco de dados contendo o nome do livro, categoria, avaliação, preço, se está em estoque, data e horário do scraping.
 
 ## Processo da Solução
 - Webscraping do site https://books.toscrape.com/
