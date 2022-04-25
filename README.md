@@ -7,6 +7,9 @@
 A livraria Book Store é um site que oferece um serviço onde os usuário podem vender ou trocar seus livros, onde o modelo de rentabilidade é feita através das avaliações e disponibilidade dos livros no estoque, oporém, a livraria não possui o controle, já que os usuários sobem os livros através de um botão "upload".
 Como cientista de dados, o dever é organizar os dados e armazená-los em um banco de dados, para facilitar a consulta.
 
+## Premissa do Negócio
+Deverá ser entregue um banco de dados contendo Nome do livro, categoria, número de estrelas, preço e se está em estoque.
+
 ## Processo da Solução
 - Webscraping do site https://books.toscrape.com/
 - Limpeza dos dados
