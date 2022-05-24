@@ -1,3 +1,5 @@
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&link=https://www.linkedin.com/in/jhonatanmarques/)](https://www.linkedin.com/in/jhonatanmarques/)
+
 # Projeto de Data Engineering da livraria Book Store
 <img src="https://github.com/jhonatanmarques92/jhonatanmarques92.github.io/blob/main/images/book_store.jpg" width="300" height="300">
 
